@@ -21,6 +21,8 @@ Server: https://github.com/janphilippfranken/space_fish_exp_3_single_player_serv
 
 Client: https://github.com/janphilippfranken/space_fish_exp_3_single_player_client (working repository)
 
+Experiment 1 Demo: https://eco.ppls.ed.ac.uk/~s1938897/space_fish_3/
+
 ## Resources
 Affiliation: University of Edinburgh (https://www.ed.ac.uk/)
 
