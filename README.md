@@ -5,7 +5,7 @@ Correspondence: janphilipp.franken@gmail.com
 ## Repo structure
 
 ```
-causal_objects/
+FrankenValentinLucasBramley2022/
 ├── README.md
 ├── data
 ├── writeup
