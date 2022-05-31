@@ -1,0 +1,32 @@
+session_id,participant_id,status,started_datetime,completed_date_time,time_taken,age,num_approvals,num_rejections,prolific_score,reviewed_at_datetime,entered_code,Country of Birth,Current Country of Residence,Employment Status,First Language,Fluent languages,Nationality,Sex,Student Status,
+60e482d9f41c36f52195be17,5ff30184a53c57822bf4a3c7,APPROVED,20:41.1,41:28.3,1247.204,45,28,0,100,25:09.8,1A79B39E,Ireland,Ireland,Other,English,English,Ireland,Female,No,0
+60e482ddf19726859fc66915,5f0e1f6b53f90813f6cd6d3a,APPROVED,20:45.6,41:20.1,1234.449,23,63,0,100,25:11.0,1A79B39E,Greece,Greece,DATA EXPIRED,Greek,"Greek, English",Greece,Male,DATA EXPIRED,1
+60e4830e9731add9a3353982,60e41a96bb41f959b9eeeb82,APPROVED,21:41.0,40:41.0,1140.005,18,27,1,99,25:11.9,1A79B39E,Poland,Poland,Part-Time,Polish,"Polish, English",Poland,Male,Yes,1
+60e4838598cdabdf22fbaace,5eb15c221c9ed524339282b4,APPROVED,23:39.6,43:21.3,1181.65,31,18,0,100,25:12.9,1A79B39E,Italy,Ireland,DATA EXPIRED,Italian,"English, Italian",Italy,Male,DATA EXPIRED,1
+60e48401339925a385b079df,60db1ff23e985c3e5432a6b5,APPROVED,25:49.6,43:26.6,1057.025,22,30,0,100,25:13.8,1A79B39E,Poland,Poland,Full-Time,Polish,"English, Polish",Poland,Female,No,0
+60e48401561a7bce4602e5a9,60e477d89591bbcd3f1c0df9,APPROVED,25:50.6,43:02.3,1031.691,20,39,0,100,25:14.7,1A79B39E,Mexico,Mexico,"Not in paid work (e.g. homemaker', 'retired or disabled)",Spanish,"Spanish, English",Mexico,Male,Yes,1
+60e4846e51ea2408193b75fe,60e388270f36bf5353ba35f1,APPROVED,27:32.5,53:21.0,1548.435,20,29,1,99,25:15.7,1A79B39E,South Africa,South Africa,Other,DATA EXPIRED,English,South Africa,Female,Yes,0
+60e48587d2b12c0bdae05546,5bfc4abf02c7560001ae506a,APPROVED,33:04.3,51:28.5,1104.182,25,168,2,100,25:16.6,1A79B39E,Belgium,Belgium,DATA EXPIRED,Dutch,"Dutch, English",Belgium,Male,DATA EXPIRED,1
+60e485c48102bc332465f51f,60e3676a2b662e74ea5de686,APPROVED,33:20.2,59:50.8,1590.638,31,22,0,100,25:17.9,1A79B39E,South Africa,South Africa,Full-Time,DATA EXPIRED,English,South Africa,Male,Yes,1
+60e486493fee2e94e54c4738,60e47c5b396c4ca7340bc8cd,APPROVED,35:25.8,50:58.9,933.051,27,3,0,100,25:19.0,1A79B39E,DATA EXPIRED,United Kingdom,DATA EXPIRED,English,English,United Kingdom,Female,DATA EXPIRED,0
+60e48649e8e7583362fb3b23,60e389bac36a3d959684655f,APPROVED,36:42.3,02:56.5,1574.215,26,22,0,100,25:19.8,1A79B39E,South Africa,South Africa,Unemployed (and job seeking),DATA EXPIRED,English,South Africa,Female,No,0
+60e4864a5c8f0dadba0aa186,60cf63d2c159d268280ce476,APPROVED,36:41.7,55:15.1,1113.397,21,14,0,100,25:20.7,1A79B39E,Portugal,Portugal,Other,Portuguese,English,Portugal,Male,Yes,1
+60e48678e5d6109b2891c5ca,60e20896098befdcf5e59441,APPROVED,36:18.6,58:21.1,1322.489,19,22,0,100,25:21.8,1A79B39E,Mexico,Mexico,Unemployed (and job seeking),Spanish,"Spanish, English",Mexico,Male,Yes,1
+60e486c3d957646a5fff0682,60e47b554737421351f7c774,APPROVED,37:29.8,59:29.1,1319.295,26,8,0,100,25:22.6,1A79B39E,United Kingdom,United Kingdom,Full-Time,English,English,United Kingdom,Male,Yes,1
+60e486d68c7ec5e63ebc395f,60e06b69c72cf350e6d28f2e,APPROVED,41:15.6,04:08.9,1373.377,30,12,1,86,25:23.7,60e06b69c72cf350e6d28f2e,South Africa,South Africa,Part-Time,DATA EXPIRED,"English, Afrikaans",South Africa,Male,No,1
+60e486deee9913c3af165b19,60e42d71b5205c43bed5c7b8,APPROVED,38:05.8,00:17.9,1332.102,19,15,2,95,25:24.6,1A79B39E,Poland,Poland,Other,Polish,"Polish, English",Poland,Male,Yes,1
+60e486f9bb3d18afc600f640,60df046a55faa79ad4f9c57c,APPROVED,38:19.9,59:21.2,1261.232,21,27,0,100,25:25.7,1A79B39E,South Africa,South Africa,Part-Time,DATA EXPIRED,"Afrikaans, English",South Africa,Male,Yes,1
+60e4872bdf1ada4c0414dd44,60e223997949aa8e7632763d,APPROVED,43:54.2,10:59.0,1624.836,20,30,0,100,25:26.6,1A79B39E,South Africa,South Africa,Other,DATA EXPIRED,"Armenian, English",South Africa,Female,Yes,0
+60e48745b02396139d8fd1c5,60e362be0c33ba8028e07118,APPROVED,39:35.6,00:18.4,1242.843,31,32,0,100,25:27.7,A79B39E,Estonia,Estonia,Full-Time,Estonian,"Estonian, English",Estonia,Female,No,0
+60e48748aceb5a2a8cc8999f,5fe65dfe2fcdc943f732a3dd,APPROVED,39:36.8,01:37.1,1320.295,21,52,1,99,25:28.6,1A79B39E,Portugal,Portugal,DATA EXPIRED,Portuguese,"Portuguese, English",Portugal,Female,DATA EXPIRED,0
+60e48751064341e120e3bdc1,60e23e4052596be3d4f54084,APPROVED,39:50.3,04:58.5,1508.162,25,21,0,100,25:29.8,1A79B39E,South Africa,South Africa,Unemployed (and job seeking),DATA EXPIRED,English,South Africa,Female,Yes,0
+60e4877d32347fbd3179b5d8,60e344b60661d2ef7cafb1ce,APPROVED,40:38.9,02:06.0,1287.031,31,58,0,100,25:30.8,1A79B39E,South Africa,South Africa,Full-Time,Afrikaans,"Afrikaans, English",South Africa,Female,No,0
+60e48799738146637f5b440e,60df618d8db441617926179a,APPROVED,41:02.7,11:41.6,1838.867,24,29,1,100,25:31.7,1A79B39E,South Africa,South Africa,Unemployed (and job seeking),DATA EXPIRED,English,South Africa,Female,No,0
+60e487a3e7884016887a3001,60ddd5c56ff2b243110657a8,APPROVED,41:11.9,05:52.4,1480.574,25,60,0,100,25:32.7,1A79B39E,United Kingdom,United Kingdom,Part-Time,English,English,United Kingdom,Female,No,0
+60e487c4f24f412a44ae7411,60e3902a0f389a9fa98d6127,APPROVED,42:14.6,58:23.4,968.842,18,13,0,100,25:33.6,1A79B39E,Portugal,Portugal,Unemployed (and job seeking),Portuguese,"Portuguese, English",Portugal,Male,Yes,1
+60e487d9b6bb83a3fb74dd5e,5e8e0e7abf2af00afc8ccd91,APPROVED,42:04.6,58:07.9,963.315,30,104,3,98,25:34.7,1A79B39E,Mexico,Mexico,DATA EXPIRED,Spanish,"English, Spanish",Mexico,Female,DATA EXPIRED,0
+60e48829ca662504c488fae3,60e4625d0b8960813aa2f954,APPROVED,43:21.2,00:41.6,1040.316,20,32,0,100,25:35.8,1A79B39E,Romania,Spain,Unemployed (and job seeking),Romanian,"English, Romanian, Spanish",Romania,Male,No,1
+60e48864e83ecb0dd500f08d,60e3031216b39aa16fc3e1aa,APPROVED,44:20.2,06/07/2021 17:08,1437.833,20,28,0,100,25:36.9,1A79B39E,Portugal,Portugal,Unemployed (and job seeking),Portuguese,"Portuguese, English, French",Portugal,Male,Yes,1
+60e48a031379c1b26a275488,60e356e45344d40b616b45c5,APPROVED,52:06.8,33:39.0,2492.266,39,18,1,99,25:37.9,1A79B39E,Poland,Austria,Full-Time,Polish,"Polish, English",Poland,Male,Yes,1
+60e48a9e32e8c3274fed730c,60e467a0b2c2ef1e594bd577,APPROVED,53:50.4,33:31.7,2381.237,19,30,2,97,25:39.0,1A79B39E,Portugal,Portugal,Other,Portuguese,"Portuguese, English",Portugal,Male,Yes,1
+,,,,,,24.9,,,,,,,,,,,,,,17

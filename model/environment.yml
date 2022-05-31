@@ -1,0 +1,11 @@
+name: beta_abm
+dependencies:
+    - python=3.9.6
+    - matplotlib
+    - tqdm
+    - ipywidgets
+    - scipy
+    - numpy
+    - seaborn
+    
+   
