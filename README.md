@@ -2,6 +2,7 @@ Online repository for "Determinants of individual and collective success in huma
 
 Correspondence: janphilipp.franken@gmail.com
 
+
 ## Repo structure
 
 ```
@@ -15,13 +16,16 @@ FrankenValentinLucasBramley2022/
 │   ├── behavioural analysis and model fitting
 ```
 
-# Experiment repositories (react applications; one repository for client, one repository for server):
+## Experiment repositories (react application)
 Server: https://github.com/janphilippfranken/space_fish_exp_3_single_player_server (working repository)
+
 Client: https://github.com/janphilippfranken/space_fish_exp_3_single_player_client (working repository)
 
-# Resources
+## Resources
 Affiliation: University of Edinburgh (https://www.ed.ac.uk/)
+
 Personal Website: https://janphilippfranken.github.io/
+
 Lab Website: https://www.bramleylab.ppls.ed.ac.uk/
 
 
