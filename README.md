@@ -16,7 +16,7 @@ FrankenValentinLucasBramley2022/
 │   ├── behavioural analysis and model fitting
 ```
 
-## Experiment repositories (react application)
+## Experiments
 Server: https://github.com/janphilippfranken/space_fish_exp_3_single_player_server (working repository)
 
 Client: https://github.com/janphilippfranken/space_fish_exp_3_single_player_client (working repository)
